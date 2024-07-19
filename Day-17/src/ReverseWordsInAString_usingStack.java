@@ -82,7 +82,11 @@ public class ReverseWordsInAString_usingStack {
 
     }
     public static void main(String[] args) {
-        String s = "the sky is blue"
+        String s = new String("  hello world  ");
+
+        String res = reverseWords(s);
+
+        System.out.println(res);
 
     }
 }
