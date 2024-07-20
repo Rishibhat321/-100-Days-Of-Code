@@ -1,4 +1,3 @@
-
 public class CheckIfAllA_Appears_Before_All_B {
 
     public static boolean checkString(String s) {
