@@ -15,7 +15,7 @@ public class SpecialArrayI {
     }
     public static void main(String[] args) {
 
-        int[] nums = {4,3,1,6};
+        int[] nums = {4, 3, 1, 6};
 
         SpecialArrayI obj = new SpecialArrayI();
 
