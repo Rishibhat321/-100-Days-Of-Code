@@ -7,7 +7,7 @@ Welcome to my 100 Days of LeetCode challenge repository! Here I document my jour
     </ul>
     <h1>Connect With Me</h1>
     <ul>
-        <li>LinkedIn : <a href = "https://www.linkedin.com/in/rishita-bhatnagar">www.linkedin.com/in/rishita-bhatnagar</a></li>
+        <li>LinkedIn : <a href = "https://www.linkedin.com/in/rishita-bhatnagar">https://www.linkedin.com/in/rishita-bhatnagar</a></li>
         <li>Gmail : <a href = "rishitab2209@gmail.com">rishitab2209@gmail.com</a></li>
     </ul>
     <h1>Repository Structure</h1>
